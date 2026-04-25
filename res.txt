@@ -1,0 +1,26 @@
+.gitignore
+
+O gitignore deve ser commitado
+
+parar de rastrear
+
+git rm --cached .
+git add .
+git commit -m "limpeza dos arquivos"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Restore/ Reset
+
+git restore <arquivo>
+git restore --staged <arquivo>
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+
+-----------------------------------------------------------
+Branches
+
+git branch
+git branch <nome>
+git checknout <nome>
+git switch <nome>
+git branch -d <nome>
