@@ -24,3 +24,32 @@ git branch <nome>
 git checknout <nome>
 git switch <nome>
 git branch -d <nome>
+
+============================================================
+HEAD
+
+ponteiro especial que indica qual
+
+
+*************************************************************
+Tags no GIT
+
+São referências fixas (não se movem) associadas a um commit específico
+
+Usadas para pontos que queiram destacar
+
+Não pode criar tags com nomes já criados
+==============================================================
+GitHub
+
+Git clone (não tem na maquina)
+Git remote add (tem na maquina)
+==============================================================
+Fast-foward
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Conflitos
+
+================================================================
+
+Rebase antes do Merge
